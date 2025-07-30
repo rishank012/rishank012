@@ -56,8 +56,9 @@
 ### 🌟 Top Projects
 
 <!-- Replace these with your real project links -->
-- 🔗 [**AI Chatbot**](https://github.com/rishankrastogi/ai-chatbot) — A smart chatbot built with Python and NLP
-- 🔗 [**ML Model Trainer**](https://github.com/rishankrastogi/ml-trainer) — Train & visualize models with scikit-learn
+- 🔗 [**Friday AI Assistant**](https://github.com/rishank012/Friday-Ai) — A smart Ai Voice Assistant built with Python
+- 🔗 [**Capstone Project**](https://github.com/rishank012/Capstone-Project) — A real-time project based on core ML model
+- 🔗 [**Age Group Classifier**](https://github.com/rishank012/Ai_Planet_Hackathon) — A Model that is able to predict if someone is Adult or Senior
 
 ---
 
